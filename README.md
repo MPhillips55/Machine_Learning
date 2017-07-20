@@ -8,7 +8,7 @@ This project utilized scikit-learn and pandas to examine the Enron Corpus e-mail
 
 ## Repo Files
 
-  * 'Machine Learning Project Work File' - this is an html download of the jupyter notebook where most of the data exploration and transformation were carried out utilizing pandas. I also created a new variable here.
+  * 'Machine Learning Project Work File' - this is an html download of the jupyter notebook where most of the data exploration and transformation were carried out utilizing pandas. To view the html file click [here.](https://mphillips55.github.io/Machine_Learning/Exploring+Enron+Corpus+with+Machine+Learning+-+Michael+Phillips.html)
 
   * 'ml exploration' - this is an html download of the jupyter notebook where I did the machine learning explorations (testing different algorithms, etc). 
 
